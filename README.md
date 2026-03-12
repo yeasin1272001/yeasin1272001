@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/yeasin1272001">
-    <img width="200" alt="Yeasin Miah" src="https://github.com/yeasin1272001.png">
+    <img width="200" alt="Yeasin Miah" src="https://prnt.sc/PkFvX11GNaTd">
   </a>
 </p>
 
