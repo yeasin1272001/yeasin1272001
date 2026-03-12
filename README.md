@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer | React & Next.js Enthusiast | C Programming Learner</h3>
 
 <p align="center">
-  <img width="200" alt="Yeasin Miah" src="https://ibb.co.com/SwNw4HSK">
+  <img width="200" alt="Yeasin Miah" src="yeasin.png">
 </p>
 
 <p align="center">
