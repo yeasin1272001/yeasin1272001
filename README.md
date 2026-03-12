@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer | React & Next.js Enthusiast | C Programming Learner</h3>
 
 <p align="center">
-  <img width="200" alt="Yeasin Miah" src="https://github.com/yeasin1272001.png">
+  <img width="200" alt="Yeasin Miah" src="[https://github.com/yeasin1272001.pn](https://chatgpt.com/backend-api/estuary/content?id=file_000000001b1871fab71e10bf0688187e&ts=492581&p=fs&cid=1&sig=8e987b0fe9285b9ab97722080e24a7332ca2ace74eb1e8e25abe043c8ea4bb45&v=0)g">
 </p>
 
 <p align="center">
